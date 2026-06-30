@@ -44,3 +44,9 @@ I created an interactive dashboard with:
 
 ## Conclusion
 This project helped me understand how data visualization can be used to find useful business insights and make better decisions.
+
+
+## 👨‍💻 Author
+
+- Name: Harshita Mehta
+- GitHub: https://github.com/harshamehta0912-source
