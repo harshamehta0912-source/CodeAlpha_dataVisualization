@@ -37,10 +37,6 @@ I created an interactive dashboard with:
 
 ---
 
-## Dashboard Preview
-![Dashboard](Images/dashboard.png)
-
----
 
 ## Conclusion
 This project helped me understand how data visualization can be used to find useful business insights and make better decisions.
